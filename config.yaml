@@ -1,0 +1,68 @@
+cookie:
+  expiry_days: 30
+  key: some_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    dbaldwin:
+      email: dbaldwin@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: David Baldwin
+      password: $2b$12$E9/bCaN/r8sN/FV2l8NpgOgspUBAp7UAVU6BgsXJzp/pW8gQWCprC
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 3
+      logged_in: false
+      name: John Smith
+      password: $2b$12$iWlVOac3uujRvTrXDi6wructXftKmo/GyQd6SMu5FmyX306kH.yFO
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 2
+      logged_in: false
+      name: Rebecca Briggs
+      password: $2b$12$uNaTgvGPG9rMbzOJHYaPQePw0DUfp1qHBrSq6l4O304qani6pKFpm
+    rcouper:
+      email: rcouper@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Ross Couper
+      password: $2b$12$Tir/PbHVmmnt5kgNxgOwMuxNIb2fv2pJ.q71TW8ekvbugCqkye4yu
+    rohu:
+      email: Rohan@gmail.com
+      failed_login_attempts: 0
+      first_name: Rohan
+      last_name: Saini
+      logged_in: true
+      password: $2b$12$DXi0xPsjkUDZOODTuYqyye8uq2wRuwlkVNaonc9xK5xIa2/PtgAo6
+      password_hint: rohu
+      roles: null
+    vighneshsinghal@gmail.com:
+      email: vighneshsinghal@gmail.com
+      first_name: Vighnesh
+      last_name: Singhal
+      logged_in: false
+      picture: https://lh3.googleusercontent.com/a/ACg8ocK_mqc1MUk9mMNEG4miHi9vTcdvSkA-41z-Drr5CZnJH4yR0TF6=s96-c
+      roles: null
+    vigu:
+      email: vighenshsinghal@gmail.com
+      failed_login_attempts: 0
+      first_name: Vighnesh
+      last_name: Singhal
+      logged_in: false
+      password: $2b$12$ddYvoNuSvib1O7fMpcJuouRQXFukWJyPnmY2l.cAtg5.Vz5hJicFi
+      password_hint: Vigh7037!
+      roles: null
+oauth2:
+  google:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+  microsoft:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+    tenant_id: null
+pre-authorized:
+  emails:
+  - vighneshsinghal@gmail.com
