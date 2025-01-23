@@ -1,5 +1,5 @@
-yaml
+PyYAML
 streamlit_authenticator
 google-generativeai
 python-dotenv
-
+streamlit
